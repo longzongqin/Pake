@@ -1,14 +1,14 @@
 {
   "package": {
-    "productName": "WeRead",
+    "productName": "冷藏保温车信息化系统",
     "version": "1.0.0"
   },
   "tauri": {
     "windows": [
       {
-        "url": "https://weread.qq.com/",
-        "transparent": true,
-        "fullscreen": false,
+        "url": "http://127.0.0.1:10000",
+        "transparent": false,
+        "fullscreen": true,
         "width": 1200,
         "height": 780,
         "resizable": true
